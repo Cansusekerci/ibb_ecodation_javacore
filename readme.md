@@ -13,3 +13,26 @@ git push -u origin master
 
 ```
 ---
+
+## Java Common Rules 
+```sh
+Class isimleri PascalCase yazılır.
+Class isimleri fiil olarak kullanmayız. (-mak -mek)
+Package isimleri tümü küçük harflerle yazılır.
+Package isimleri fiil olarak kullanmayız.
+Package isimleri kısa ve net olmalı.
+```
+```
+
+## Class
+```
+Javada statik classlar yoktur ( inner class hariç)
+Javada 1 tane public class vardır (inner class hariç)
+```
+```
+
+##Syntax
+```sh
+Javada 
+```
+```
