@@ -1,4 +1,4 @@
-package com.cansusekerci;
+package com.cansusekerci._1_week;
 
 public class _05_operators {
     public static void main(String[] args) {
