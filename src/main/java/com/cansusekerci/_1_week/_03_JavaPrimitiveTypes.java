@@ -1,4 +1,4 @@
-package com.cansusekerci._1_part_javatpes;
+package com.cansusekerci._1_week;
 
 public class _03_JavaPrimitiveTypes {
     public static void main(String[] args) {
