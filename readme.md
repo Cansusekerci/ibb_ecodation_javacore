@@ -31,8 +31,9 @@ Javada 1 tane public class vardır (inner class hariç)
 ```
 ```
 
-##Syntax
+## Syntax - Java Core Information
 ```sh
-Javada 
+Javada her kod satırı ; ile bitmelidir.
+Java case sensitive bir dildir. (Küçük ve büyük harfe duyarlı yüksek seviyeli bir dildir.)
 ```
 ```
